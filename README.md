@@ -1,2 +1,3 @@
 # weather_flask_app
-This is weather app developed eith flask framework.
+This is weather app developed with flask framework.
+this is nice app
